@@ -3,8 +3,15 @@ h1 {
     color: blue;
     font-weight: bold;
     font-style: italic;
-}
 
+}
+header {
+    background-image: url("https://media.gq-magazine.co.uk/photos/645b5c3c8223a5c3801b8b26/16:9/w_2560%2Cc_limit/100-best-games-hp-b.jpg");
+    width: auto;
+    height: auto;
+    background-position: center;
+
+}
 h2 {
     Font-size: 20px;
     color: #0000ff;
@@ -13,19 +20,27 @@ h2 {
 
 h3 {
     font-size: 16px;
-    color: teal;
+        color: teal;
     font-weight: bold;
 }
 
 p {
-    color: #4D4D4D;
+    color: black;
+    border-style: double;
+    border-radius: 25px;
+    border-left-width: thick;
 }
 
 #paragraaf1 {
     font-weight: bold;
+    color: white;
 }
 
 a {
     color: #8A2BE2;
     text-decoration-line: none;
 }
+img {
+    width: 1000px;
+}
+
